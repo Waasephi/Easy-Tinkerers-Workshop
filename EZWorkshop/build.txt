@@ -1,0 +1,3 @@
+displayName = Easy Tinkerer's Workshop
+author = Waasephi
+version = 1.0
